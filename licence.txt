@@ -1,0 +1,86 @@
+LICENCE — DARK QUEST 2D
+Trophées NSI 2025-2026 — Dossier n°2108
+Lycée Français Alioune Blondin Beye — Luanda, Angola
+
+Auteurs : Yasmine Viegas, Rayan Haidar, Alexandra Fontoura
+Année scolaire : 2025-2026
+
+========================================================
+1. LICENCE DU CODE SOURCE
+========================================================
+
+Conformément aux règles du concours « Les Trophées NSI », le code source
+de Dark Quest 2D est placé sous licence libre :
+
+    GNU General Public License v3+ (GPL v3+)
+    https://www.gnu.org/licenses/gpl-3.0.fr.html
+
+Tout comme Linux, ce code peut être librement utilisé, modifié et redistribué
+sous les mêmes conditions de licence.
+
+Copyright (c) 2026 Yasmine Viegas, Rayan Haidar, Alexandra Fontoura
+Lycée Français Alioune Blondin Beye — Luanda, Angola
+
+========================================================
+2. LICENCE DU CONTENU (textes, scénario, questions)
+========================================================
+
+Conformément aux règles du concours « Les Trophées NSI », le contenu textuel
+(scénario, questions de cybersécurité, leçons, documentation) est placé sous :
+
+    Creative Commons CC BY-SA (Attribution - Partage dans les mêmes conditions)
+    https://creativecommons.org/licenses/by-sa/4.0/deed.fr
+
+Tout comme Wikipédia, ce contenu peut être librement partagé et adapté,
+à condition de créditer les auteurs et de conserver la même licence.
+
+========================================================
+3. AUTORISATIONS DROITS D'AUTEUR ET DROIT À L'IMAGE
+========================================================
+
+Les trois membres de l'équipe étant mineurs, leurs parents ou représentants
+légaux ont signé le formulaire officiel « Accord et autorisation pour
+l'utilisation des œuvres et de l'image et/ou de la voix d'une personne mineure
+dans le cadre du concours Les Trophées NSI » (Association Talents du numérique
+– 22/28 rue Joubert – 75009 PARIS, SIRET : 844 539 841 00024).
+
+Les autorisations signées couvrent :
+  - La reproduction et publication de l'image et/ou de la voix des élèves
+  - L'utilisation et la diffusion des œuvres réalisées dans le cadre du concours
+  - Les supports : documents de communication, internet, réseaux sociaux,
+    PeerTube/YouTube, édition numérique, projections collectives
+  - Durée : 5 ans à compter de la signature
+  - Territoire : France
+
+Élèves ayant fourni une autorisation signée :
+  ✓ Alexandra Fontoura  — autorisation signée (parents + élève)
+  ✓ Rayan Haidar        — autorisation signée (parents + élève)
+  ✓ Yasmine Viegas      — autorisation signée (parents + élève)
+
+Les documents originaux signés sont disponibles auprès de :
+  M. Eddy Labidi — Professeur encadrant
+  eddy.labidi@aefe.fr
+  Lycée Français Alioune Blondin Beye — Luanda, Angola
+
+========================================================
+4. BIBLIOTHÈQUES TIERCES UTILISÉES
+========================================================
+
+Pygame 2.x
+  Usage   : Développement du jeu 2D en Python
+  Licence : LGPL (Lesser General Public License) — libre
+  Site    : https://www.pygame.org
+
+Pillow (PIL)
+  Usage   : Traitement des images / assets PNG
+  Licence : HPND (Historical Permission Notice and Disclaimer) — libre
+  Site    : https://python-pillow.org
+
+========================================================
+5. SPRITES EXTERNES
+========================================================
+
+Certains sprites de personnages proviennent de Itch.io et sont utilisés
+conformément à leurs licences respectives (libres pour projets non commerciaux).
+Les personnages et décors dessinés en Python pur sont une création originale
+d'Alexandra Fontoura.
